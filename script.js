@@ -1,3 +1,3 @@
 document.querySelector('.logo').addEventListener("click", e => {
-    window.open("http://glock06.ga");
+    window.open("http://site.ga");
 })
